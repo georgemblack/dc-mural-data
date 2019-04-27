@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "title": "Flowers",
+        "description": "No description",
+        "locationLatitude": "38.904742457984966",
+        "locationLongitude": "-77.06594421671888",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-26T13:37:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 2,
+        "title": "Georgetown Tagged House",
+        "description": "No description",
+        "locationLatitude": "38.90880263640129",
+        "locationLongitude": "-77.0668676234971",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-26T13:51:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 3,
+        "title": "Georgetown Wave",
+        "description": "No description",
+        "locationLatitude": "38.907803357725285",
+        "locationLongitude": "-77.06956344739848",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-26T13:58:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 4,
+        "title": "Duke Ellington",
+        "description": "No description",
+        "locationLatitude": "38.90643138690773",
+        "locationLongitude": "-77.04797733028276",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T10:38:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 5,
+        "title": "Toy Theater",
+        "description": "No description",
+        "locationLatitude": "38.90778243673309",
+        "locationLongitude": "-77.04435549488923",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T10:46:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 6,
+        "title": "Basketball Court",
+        "description": "No description",
+        "locationLatitude": "38.90985554230936",
+        "locationLongitude": "-77.03783379891003",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T11:23:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 7,
+        "title": "Rooster Alley",
+        "description": "No description",
+        "locationLatitude": "38.90915923480151",
+        "locationLongitude": "-77.03242284783902",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T11:34:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 8,
+        "title": "School",
+        "description": "No description",
+        "locationLatitude": "38.91895516533516",
+        "locationLongitude": "-77.04015300275265",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T12:37:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 9,
+        "title": "Everyday I See Something New",
+        "description": "No description",
+        "locationLatitude": "38.9198999197599",
+        "locationLongitude": "-77.0408576284309",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T12:43:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 10,
+        "title": "Shop Small",
+        "description": "No description",
+        "locationLatitude": "38.92114506801963",
+        "locationLongitude": "-77.04197404875853",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T12:58:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 11,
+        "title": "DC's Picasso",
+        "description": "No description",
+        "locationLatitude": "38.92332571940491",
+        "locationLongitude": "-77.04281338656754",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T13:04:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 12,
+        "title": "Presidents",
+        "description": "No description",
+        "locationLatitude": "38.923519263160514",
+        "locationLongitude": "-77.04683875733514",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T13:17:00-0400",
+        "keywords": []
+    },
+    {
+        "id": 13,
+        "title": "Einstein's Spray Can",
+        "description": "No description",
+        "locationLatitude": "38.928063212032946",
+        "locationLongitude": "-77.03270977822687",
+        "photoUrls": [],
+        "photoTakenTimestamp": "2019-04-27T14:30:00-0400",
+        "keywords": []
+    }
+]
